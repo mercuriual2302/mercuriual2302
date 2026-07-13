@@ -102,7 +102,7 @@ Bilingual (Spanish and English) Real Madrid news and match-report site. A local 
 <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" />
 
 **Formula Student Autonomous Vehicle**
-AI team lead for Manchester Stinger Racing, working on the autonomy stack for the team's Formula Student vehicle during my degree at the University of Manchester.
+AI team Dev for Manchester Stinger Racing, working on the autonomy stack for the team's Formula Student vehicle during my degree at the University of Manchester.
 
 ---
 
