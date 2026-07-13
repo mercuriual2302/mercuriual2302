@@ -22,7 +22,7 @@
 
 I'm a Technical Support Engineer at Beckhoff Automation UK, working across TwinCAT 3 PLC and HMI development, EtherCAT networks, motion control, and Beckhoff IPCs, with hands-on commissioning experience for customers across industries including motorsport. Alongside customer-facing support, I build internal tooling to make our engineering teams faster.
 
-I hold a BSc (Hons) in Computer Science from the University of Manchester, where I led the AI team for Manchester Stinger Racing's Formula Student autonomous vehicle.
+I hold a BSc (Hons) in Computer Science from the University of Manchester.
 
 Currently open to new opportunities in software and controls engineering.
 
