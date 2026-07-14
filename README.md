@@ -37,6 +37,13 @@ Currently open to new opportunities in software and controls engineering.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 **Industrial automation**
 
@@ -45,14 +52,38 @@ Currently open to new opportunities in software and controls engineering.
 <img src="https://img.shields.io/badge/Beckhoff_IPC-004B87?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PLC_%2F_Motion_Control-333333?style=for-the-badge" />
 
+**Hardware & embedded**
+
+<img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog-black?style=for-the-badge" />
+
 **Frameworks &amp; tools**
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+**Data science &amp; ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" />
 
 ---
 
@@ -102,7 +133,36 @@ Bilingual (Spanish and English) Real Madrid news and match-report site. A local 
 <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" />
 
 **Formula Student Autonomous Vehicle**
-AI team Dev for Manchester Stinger Racing, working on the autonomy stack for the team's Formula Student vehicle during my degree at the University of Manchester.
+AI team dev for Manchester Stinger Racing, working on the autonomy stack for the team's Formula Student vehicle during my degree at the University of Manchester.
+
+**Hex AI Agent**
+An AI agent for the board game Hex, built for a university module, achieving a 74.1% win rate and ranking 19th for speed among all submissions.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<p align="center">
+  <a href="https://github.com/mercuriual2302/Hex_AI_Agent">
+    <img src="https://img.shields.io/github/stars/mercuriual2302/Hex_AI_Agent?style=flat-square&color=2E9EF7" />
+  </a>
+</p>
+
+**GhostTyper**
+A typing game with Spotify API integration for real-time music playback, dynamically adjusting difficulty based on lyric tempo. Optimised the underlying MySQL database with indexing and caching, improving query speed by 30%.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+
+<p align="center">
+  <a href="https://github.com/mercuriual2302/GhostTyper">
+    <img src="https://img.shields.io/github/stars/mercuriual2302/GhostTyper?style=flat-square&color=2E9EF7" />
+  </a>
+</p>
+
+**UniCS Events Platform**
+Full-stack developer on an internal events database and public-facing website for the University of Manchester's Computer Science society, used by 1,000+ students for event management. Built responsive front-end features and optimised backend performance, cutting page load times by roughly 35%, while coordinating with multiple society committees on requirements and release timing.
+
+<img src="https://img.shields.io/badge/Full_Stack-333333?style=flat-square" />
 
 ---
 
