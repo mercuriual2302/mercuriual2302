@@ -32,6 +32,7 @@ Currently open to new opportunities in software and controls engineering.
 
 **Languages**
 
+<p align="left">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -44,21 +45,27 @@ Currently open to new opportunities in software and controls engineering.
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
 **Industrial automation**
 
+<p align="left">
 <img src="https://img.shields.io/badge/TwinCAT_3-0033A0?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/EtherCAT-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Beckhoff_IPC-004B87?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PLC_%2F_Motion_Control-333333?style=for-the-badge" />
+</p>
 
 **Hardware & embedded**
 
+<p align="left">
 <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verilog-black?style=for-the-badge" />
+</p>
 
 **Frameworks &amp; tools**
 
+<p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -73,9 +80,11 @@ Currently open to new opportunities in software and controls engineering.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
 **Data science &amp; ML**
 
+<p align="left">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -84,6 +93,7 @@ Currently open to new opportunities in software and controls engineering.
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
 ---
 
@@ -95,11 +105,15 @@ Currently open to new opportunities in software and controls engineering.
 
 **An Electron desktop app that automates SSH-based provisioning of Beckhoff CX-series Linux IPCs**
 
+<p align="center">
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/SSH-black?style=for-the-badge" />
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/🌍_In_production_across-Sweden_·_UK_·_Germany_·_France_·_Spain_·_China-2E9EF7?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -128,9 +142,11 @@ What started as a way to remove manual scripting from RT Linux IPC provisioning 
 **El Tiempo Blanco**
 Bilingual (Spanish and English) Real Madrid news and match-report site. A local LLM via Ollama generates the match report prose, which is checked by a set of anti-hallucination guards before publishing: a scorer drift guard restores the factual line if the model names the wrong scorer or drops an event, minutes and highlights are always pulled from the underlying facts rather than the model's wording, and a dedicated check keeps the European Cup count honest in both languages. Covered by a pytest suite that runs the guards against a stubbed model, so testing needs no database or live LLM.
 
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" />
+</p>
 
 **Formula Student Autonomous Vehicle**
 AI team dev for Manchester Stinger Racing, working on the autonomy stack for the team's Formula Student vehicle during my degree at the University of Manchester.
@@ -149,9 +165,11 @@ An AI agent for the board game Hex, built for a university module, achieving a 7
 **GhostTyper**
 A typing game with Spotify API integration for real-time music playback, dynamically adjusting difficulty based on lyric tempo. Optimised the underlying MySQL database with indexing and caching, improving query speed by 30%.
 
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://github.com/mercuriual2302/GhostTyper">
